@@ -1,0 +1,11 @@
+node_id,country,admin1_region,location_name,latitude,longitude,sequence_order,notes
+ESW-01,Eswatini,Shiselweni,Mahamba Border Post,-27.1055,31.0691,1,Southern cordon entry point
+ESW-02,Eswatini,Lubombo,Maphiveni,-26.1413,31.9884,2,Lubombo cordon node
+ESW-03,Eswatini,Lubombo,Lukhula,-26.4181,31.9014,3,Lubombo high-risk area
+ESW-04,Eswatini,Lubombo,Siteki,-26.45,31.95,4,Administrative reference town
+ESW-05,Eswatini,Lubombo,Lomahasha,-25.983,32.0,5,Border checkpoint near Mozambique
+ESW-06,Eswatini,Lubombo,Mambane,-26.768,32.034,6,Northern Lubombo cordon endpoint
+ESW-07,Eswatini,Hhohho,Mananga Border,-25.9331,31.7613,7,Northern border checkpoint
+MOZ-08,Mozambique,Maputo Province,Namaacha,-25.975,32.019,8,Mozambique border town
+MOZ-09,Mozambique,Maputo Province,Moamba,-25.5994,32.237,9,Mozambique inland reference
+MOZ-10,Mozambique,Maputo Province,Boane,-26.0424,32.3303,10,Mozambique livestock area
